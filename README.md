@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of my Data Science internship at IncodeVision.
+This project was completed as part of my Machine learning internship at IncodeVision.
 
 The project focuses on data cleaning, exploratory data analysis (EDA), and visualization using the Titanic dataset.
 

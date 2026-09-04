@@ -1,8 +1,6 @@
 # Titanic Dataset - Data Cleaning and Exploratory Data Analysis
 
-## Overview
-
-This project was completed as part of my Machine learning internship at IncodeVision.
+## Overview
 
 The project focuses on data cleaning, exploratory data analysis (EDA), and visualization using the Titanic dataset.
 
